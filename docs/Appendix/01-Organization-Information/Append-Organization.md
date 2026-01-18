@@ -38,7 +38,7 @@ Our team will communicate in a respectful, supportive, and professional manner w
 | Terry Williams |  Messenger                              |    Gmail                             |                                |
 | Keith Payne |                                |                                 |                                |
 | Charlie Klotz |                                |                                 |                                |
-| Vanessa Morgan |                                |                                 |                                |
+| Vanessa Morgan |              Text Message                  |               Email                  |                                |
 
 ### Communication Procedures
 
@@ -55,7 +55,7 @@ Then, answer the following question as a team:
 
 Our team will use our main established communication method to remind group members of meetings. We will also communicate during class time, assuming all members are present and show up.
 
-Changes or additional meeting times will require all members to be notifyed. Members agree upon a time that fits every persons schedule and aligns with each persons availability.
+Changes or additional meeting times will require all members to be notified. Members agree upon a time that fits every persons schedule and aligns with each persons availability.
 
 Preferred meeting time will depend on each members preference or availability, agreement for format can be determined before scheduled meeting.
 
@@ -76,6 +76,6 @@ Our team realizes that difference of opinion is an inevitable and valuable part 
 These signatures confirm that the team members agree to what is written above
 
 * Terry Williams
-*
+* Vanessa Morgan
 *
 *
