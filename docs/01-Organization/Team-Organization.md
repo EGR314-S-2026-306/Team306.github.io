@@ -18,4 +18,4 @@ Team 306's mission is to design...
 
 ## Other Organizational Information
 
-Other details about the organization structure of the team can be reviewed in ["Appendix: Team Organization Information."](https://embedded-systems-design.github.io/template_report/Appendix/01-Organization-Information/Append-Organization/)
+Other details about the organization structure of the team can be reviewed in ["Appendix: Team Organization Information."](https://egr314-s-2026-306.github.io/Team306.github.io/Appendix/appendix/)
