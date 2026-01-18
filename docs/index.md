@@ -8,18 +8,20 @@ tags:
 <font size="8">Project Name: TBD<br>
 <font size="5">Team 306<br>
 **Submission: May, 1, 2026**<br>
-Spring - 202x<br>
+Spring - 2026<br>
 <font size="4">Arizona State University<br>
 **EGR 314**<br>
-Proffesser: Kevin Nichols<br>
+Proffesor: Kevin Nichols<br>
   
 
 </center>
 
 ## Team Introduction
-> will be updated as part of the preparation for the External Review.<br>
->    * Needs to be updated to reflect a team introduction.<br>
->    * Content should also help an unfamiliar reader navigate to areas of interest.
+ Team 306 welcomes you to our engineering project webpage. This Team project can be split up into several sections and each one will be managed by a single team member."To be continued after specifics are determined."
+
+ >*This will be updated as part of the preparation for the External Review.<br>
+ >*Needs to be updated to reflect a team introduction.<br>
+ >*Content should also help an unfamiliar reader navigate to areas of interest.
 
 
 ## Team Members Datasheet links
