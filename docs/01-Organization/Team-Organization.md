@@ -8,7 +8,7 @@ tags:
 
 >Team 306 is a design and augmentation team for EGR 314 embedded systems, using a combination of individual systems combined into one to form a functioning project. Team 306 aims to build on the responsibility for the engineering, social, cultural and overall health of the communities it serves and are served by the overarching university of ASU.
 
-The team came about this team charter through the collobrative efforts of the memebers.
+Team 306 came about this team charter through the collobrative efforts of the individual members.
 
 ## Product Mission Statement
 
