@@ -4,9 +4,10 @@ title: Appendix - Extra Team Organization Information
 
 ## Roles & Responsibilities
 
->Define the roles and responsibilities that will be filled by the team members as you work to achieve your team mission. The table below is an example of some roles that each team should have; as you organize your team, you may identify other roles that would help your team successfully fulfill the team mission. ***See assignment for more details.***
+These are the roles and responsibilities that will be filled by the team members of team 306 as our project progresses throughout the semester. The table below shows some of the roles that each team member is responsible for.
 
 _Table #: Project Roles and Duties_
+
 
 | **Role**          | **Duties**                                                                                                                                |
 | :---------------- | :---------------------------------------------------------------------------------------------------------------------------------------- |
@@ -15,20 +16,29 @@ _Table #: Project Roles and Duties_
 | Assignment leader | Coordinates the team's work on a given assignment to Canvas before the due date                                                           |
 | Project monitor   | Tracks the team's progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status |
 
+| **Name**          | **Role**                                                                                                                                |
+| :---------------- | :---------------------------------------------------------------------------------------------------------------------------------------- |
+| Terry Williams   | Assignment leader         |
+| Keith Payne    | Meeting recorder         |
+| Charlie Klotz    | Meeting leader        |
+| Vanessa Morgan    | Project monitor         |
+
 ## Communication Channels
 
 ### Team Communication Method
 
->This is an area where teams often get into trouble. You should specific the channel(s)/method(s) for the team communication along with notes on the expectation in responce time.
+<!--This is an area where teams often get into trouble. You should specific the channel(s)/method(s) for the team communication along with notes on the expectation in responce time.
+-->
+Our team will communicate in a respectful, supportive, and professional manner with each other as well as the teaching staff. For questions that can't be solved internally and require the assistance of the instructor, it will fall to the Assignment leader for that period to ask. From there, they will update the team when an answer has been provided and see if any further follow up is required.
 
 *Table #: Team Members' Prefered Communication Modes*
 
 | **Name** | **First Choice Communication** | **Second Choice Communication** | **Third Choice Communication** |
 | :------- | :----------------------------- | :------------------------------ | :----------------------------- |
-| Member 1 |                                |                                 |                                |
-| Member 2 |                                |                                 |                                |
-| Member 3 |                                |                                 |                                |
-| Member 4 |                                |                                 |                                |
+| Terry Williams |  Messenger                              |    Gmail                             |                                |
+| Keith Payne |                                |                                 |                                |
+| Charlie Klotz |                                |                                 |                                |
+| Vanessa Morgan |                                |                                 |                                |
 
 ### Communication Procedures
 
@@ -41,26 +51,31 @@ Then, answer the following question as a team:
 
 ### Meeting Schedule and Coordiation
 
->Your team should identify common times for meeting every week. If you are not meeting weekly, your team's chances of success this semester are low
+<!--Your team should identify common times for meeting every week. If you are not meeting weekly, your team's chances of success this semester are low-->
 
-* Team will meet ...
-* It with be a ...(face-to-face or virtually)... type of meeting.
-* Reminders for the meetings will be by ....
-* Changes to this schedule will be ....
-* Accountability issuse will .....
-* For records of accountablity will be noted in the minutes... 
+Our team will use our main established communication method to remind group members of meetings. We will also communicate during class time, assuming all members are present and show up.
+
+Changes or additional meeting times will require all members to be notifyed. Members agree upon a time that fits every persons schedule and aligns with each persons availability.
+
+Preferred meeting time will depend on each members preference or availability, agreement for format can be determined before scheduled meeting.
+
 
 ### Team Coordination & Accountability
 
-* Assignments are submitted ....
-* To Ensure that each team member has the knowledge and skill required, the team will ......
-* Feedback is to and acted on ....
-* Missed contributions/assignments/actions will be ...
-* Hold one another accountable to the expectations described in this charter.
-* Recognize that a team member is underperforming.
-* Help an underperforming team member improve.
-* What are the consequences if an underperforming team member does not improve (e.g., pink slip)?
+Our team will assign roles determined by consensus, taking into account each member’s skills, interests, and developmental goals, while maintaining flexibility to adapt as project needs evolve. Team members will support one another by sharing knowledge, offering feedback, and stepping in when responsibilities overlap or challenges arise. If adjustments are needed, the team will openly discuss and readjust roles to maintain balance and efficiency. Technical responsibilities will be distributed based on both expertise and disscussion. 
+
+Our team will ensure the submissions are on time by setting internal deadlines ahead of official due dates and requiring every member to review and sign off on the final work before submission. To guarantee that each member is prepared for their responsibilities, we will share resources, help each other where possible, and adjust assignments when additional guidance is needed. Feedback from design reviews will be documented in our communication channel, with clear action items assigned and tracked until completion. If a member misses a contribution or fails to meet expectations, the team will first address the issue through disscussion, offering support and strategies for improvement. If a member does not contribute at all the team will remove them.
 
 #### Conflict Recognition & Resolution
 
-> List the steps and means of documenting issuses that lead to involving the instructor in a "Pink Slip" processor. It is best to be **proactive** in resolving these issues early in the semester!
+<!-- List the steps and means of documenting issuses that lead to involving the instructor in a "Pink Slip" processor. It is best to be **proactive** in resolving these issues early in the semester!
+-->
+
+Our team realizes that difference of opinion is an inevitable and valuable part of collaboration, To minimize conflicts of interest with the project, we will ensure that project roles and responsibilities are clearly defined and distributed fairly, preventing any one member from being overburdened. 
+
+These signatures confirm that the team members agree to what is written above
+
+* Terry Williams
+*
+*
+*
