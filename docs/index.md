@@ -5,13 +5,13 @@ tags:
 - tag2
 ---
 <center>
-<font size="8">Project Name<br>
-<font size="5">Team ###<br>
-**Submission: month, DD, YYYY**<br>
+<font size="8">Project Name: TBD<br>
+<font size="5">Team 306<br>
+**Submission: May, 1, 2026**<br>
 Spring - 202x<br>
 <font size="4">Arizona State University<br>
 **EGR 314**<br>
-Professor Name<br>
+Proffesser: Kevin Nichols<br>
   
 
 </center>
@@ -26,7 +26,7 @@ Professor Name<br>
 
 | **Team Member**        |**Ind Datasheet Links** |
 | ---------------------- | -----------------------|
-| Name #1                | [JohnDoe.GitHub](https://embedded-systems-design.github.io/EGR314DataSheetTemplate/) |
-| Name #2                | link |
-| Name #3                | link |
-| Name #4                | link |
+| Terry Williams             | [tlwill38-bit.GitHub](https://tlwill38-bit.github.io/tlwill38-bit.github-314.io/) |
+| Keith Payne                | [JohnDoe.GitHub](https://embedded-systems-design.github.io/EGR314DataSheetTemplate/) |
+| Charlie Klotz              | [JohnDoe.GitHub](https://embedded-systems-design.github.io/EGR314DataSheetTemplate/) |
+| Vanessa Morgan             | [JohnDoe.GitHub](https://embedded-systems-design.github.io/EGR314DataSheetTemplate/) |
