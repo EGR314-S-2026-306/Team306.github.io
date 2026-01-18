@@ -18,4 +18,4 @@ Team 306's mission is to design...
 
 ## Other Organizational Information
 
-Other details about the organization structure of the team can be reviewed in ["Appendix: Team Organization Information."](https://egr314-s-2026-306.github.io/Team306.github.io/Appendix/appendix/)
+Other details about the organization structure of the team can be reviewed in The ["Appendix"](https://egr314-s-2026-306.github.io/Team306.github.io/Appendix/appendix/)
