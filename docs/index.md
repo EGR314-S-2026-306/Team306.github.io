@@ -11,7 +11,7 @@ tags:
 Spring - 2026<br>
 <font size="4">Arizona State University<br>
 **EGR 314**<br>
-Proffesor: Kevin Nichols<br>
+Professor: Kevin Nichols<br>
   
 
 </center>
@@ -30,5 +30,5 @@ Proffesor: Kevin Nichols<br>
 | ---------------------- | -----------------------|
 | Terry Williams             | [tlwill38-bit.GitHub](https://tlwill38-bit.github.io/tlwill38-bit.github-314.io/) |
 | Keith Payne                | [Kapayne6.GitHub](https://kapayne6.github.io/Kapayne6_314.github.io/) |
-| Charlie Klotz              | [JohnDoe.GitHub](https://embedded-systems-design.github.io/EGR314DataSheetTemplate/) |
+| Charlie Klotz              | [CharKlotz.GitHub](https://charklotz.github.io/) |
 | Vanessa Morgan             | [vzmorgan.GitHub](https://vzmorgan-lab.github.io/vzmorgan.github.io/) |
