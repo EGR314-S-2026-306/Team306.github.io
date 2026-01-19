@@ -36,7 +36,7 @@ Our team will communicate in a respectful, supportive, and professional manner w
 | **Name** | **First Choice Communication** | **Second Choice Communication** | **Third Choice Communication** |
 | :------- | :----------------------------- | :------------------------------ | :----------------------------- |
 | Terry Williams |  Messenger                              |    Gmail                             |                                |
-| Keith Payne |                                |                                 |                                |
+| Keith Payne | Text Message                               |  Discord                               | Gmail/Canvas                               |
 | Charlie Klotz |                                |                                 |                                |
 | Vanessa Morgan |              Text Message                  |               Email                  |                                |
 
@@ -77,5 +77,5 @@ These signatures confirm that the team members agree to what is written above
 
 * Terry Williams
 * Vanessa Morgan
-*
+* Keith Payne
 *
