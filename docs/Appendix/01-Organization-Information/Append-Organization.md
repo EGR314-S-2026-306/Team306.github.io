@@ -35,19 +35,17 @@ Our team will communicate in a respectful, supportive, and professional manner w
 
 | **Name** | **First Choice Communication** | **Second Choice Communication** | **Third Choice Communication** |
 | :------- | :----------------------------- | :------------------------------ | :----------------------------- |
-| Terry Williams |  Messenger                              |    Gmail                             |                                |
+| Terry Williams |  Text Message                              |    Gmail                             |                                |
 | Keith Payne | Text Message                               |  Discord                               | Gmail/Canvas                               |
 | Charlie Klotz | Text Message                               | Discord                                | Email                               |
 | Vanessa Morgan |              Text Message                  |               Email                  |                                |
 
 ### Communication Procedures
 
-Then, answer the following question as a team:
 
-* Discord was the agreed .....
-* It is expected a responce of ... on the agreed timeframe of ....
-* John Doe with be the point of contact for instructor correspondence? Who is responsible?
-  * Will that be communicated with ... back to the group.
+* Text Message was the Agreed upon primary form of communication
+* It is expected a responce of one day time period between important messages.
+* Important topics can also be disscused during class time. 
 
 ### Meeting Schedule and Coordiation
 
