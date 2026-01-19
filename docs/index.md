@@ -29,6 +29,6 @@ Proffesor: Kevin Nichols<br>
 | **Team Member**        |**Ind Datasheet Links** |
 | ---------------------- | -----------------------|
 | Terry Williams             | [tlwill38-bit.GitHub](https://tlwill38-bit.github.io/tlwill38-bit.github-314.io/) |
-| Keith Payne                | [JohnDoe.GitHub](https://embedded-systems-design.github.io/EGR314DataSheetTemplate/) |
+| Keith Payne                | [Kapayne6.GitHub](https://kapayne6.github.io/Kapayne6_314.github.io/) |
 | Charlie Klotz              | [JohnDoe.GitHub](https://embedded-systems-design.github.io/EGR314DataSheetTemplate/) |
 | Vanessa Morgan             | [vzmorgan.GitHub](https://vzmorgan-lab.github.io/vzmorgan.github.io/) |
