@@ -14,7 +14,7 @@ Team 306 came about this team charter through the collobrative efforts of the in
 
 Team 306's mission is to design...
 
- > "Google's mission is to organize the world's information and make it universally accessible and useful."
+ > "A physical implement capable of exploring different enviroments using a series of individually developed probes and sensors."
 
 ## Other Organizational Information
 
