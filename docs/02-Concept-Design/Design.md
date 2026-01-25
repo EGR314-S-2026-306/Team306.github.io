@@ -43,3 +43,24 @@ Navigate unpredictable, hazardous, or varied terrain using adaptive movement sys
 Support users—students, field teams, or non‑experts—through guided exploration with strong instructional, feedback, and interactive features. Ideas for this concept shown on whitboard below:
 
 ![Design Features](ConceptThree.jpg)
+
+
+
+
+## Concept Sketches 
+
+Our team came up with diifferent sketch concepts for our project: 
+
+I put these spots here for a place holder change however nesscary: 
+
+Keith's Design:
+
+Vennessa's Design:
+
+Charlie's Design:
+
+
+## Selected Concept 
+After you guys create sketches we will need to come up with a selected concept for our project before we turn it in. 
+
+And we need to determine who wants to do what functionality for their individual subsystem.  
