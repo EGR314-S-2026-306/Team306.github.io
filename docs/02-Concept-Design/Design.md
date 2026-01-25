@@ -1,8 +1,7 @@
 ---
 title: Concept Generation and Design Ideation
 ---
-
-## Exploration Devices
+## Exploration Devices 
 
 A surface‑sampling exploration device is designed to directly interact with the ground in order to collect physical material for analysis. Its primary goal is to gather soil, rock, sediment, or other surface‑level samples that can reveal the chemical, geological, or biological characteristics of an environment. By physically retrieving material and relying on remote sensing, the device provides an example of what the surface is made of and how it has changed over time. This hands‑on approach allows researchers to study composition, structure, and environmental conditions with a level of detail that other observation‑only tools can’t match.
 
