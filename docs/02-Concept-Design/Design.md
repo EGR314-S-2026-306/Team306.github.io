@@ -30,10 +30,16 @@ After sorting and catergorizing these ideas, our team then came up with 3 concep
 
 Collect high‑quality surface and subsurface samples, analyze them on‑site, and return structured scientific data, Ideas for this concept shown on whitboard below:
 
+![Design Features](ConceptOne.jpg)
+
 ### Concept 2: Adaptive Terrain Explorer
 
 Navigate unpredictable, hazardous, or varied terrain using adaptive movement systems and environmental awareness tools. Ideas for this concept shown on whitboard below:
 
+![Design Features](ConceptTwo.jpg)
+
 ### Concept 3: Assisted Exploration Companion
 
 Support users—students, field teams, or non‑experts—through guided exploration with strong instructional, feedback, and interactive features. Ideas for this concept shown on whitboard below:
+
+![Design Features](ConceptThree.jpg)
