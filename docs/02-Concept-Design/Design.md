@@ -20,3 +20,20 @@ Our Team each genrate roughly 25 ideas per member. We then placed our ideas on t
 We then grouped our ideas into different catergories based on functionality and use. Shown on the whiteboard below 
 
 ![Design Features](IdeasSorted.jpg)
+
+
+## Concepts 
+
+After sorting and catergorizing these ideas, our team then came up with 3 concepts each with seperate functions and different purposes. Shown below 
+
+### Concept 1: Precision Surface‑Sampling Rover
+
+Collect high‑quality surface and subsurface samples, analyze them on‑site, and return structured scientific data, Ideas for this concept shown on whitboard below:
+
+### Concept 2: Adaptive Terrain Explorer
+
+Navigate unpredictable, hazardous, or varied terrain using adaptive movement systems and environmental awareness tools. Ideas for this concept shown on whitboard below:
+
+### Concept 3: Assisted Exploration Companion
+
+Support users—students, field teams, or non‑experts—through guided exploration with strong instructional, feedback, and interactive features. Ideas for this concept shown on whitboard below:
