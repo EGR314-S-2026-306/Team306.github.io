@@ -10,6 +10,13 @@ The audience for a surface‑sampling device is likely going to include scientis
 
 ## Generate Ideas 
 
-Our Ideas were gathered on the whiteboard below. 
+Our Team each genrate roughly 25 ideas per member. We then placed our ideas on the whiteboard below. 
 
 ![Design Features](DesignIdeas.jpg)
+
+
+## Team sorting and Ranking 
+
+We then grouped our ideas into different catergories based on functionality and use. Shown on the whiteboard below 
+
+![Design Features](IdeasSorted.jpg)
