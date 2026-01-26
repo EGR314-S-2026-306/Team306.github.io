@@ -53,7 +53,7 @@ Our team came up with diifferent sketch concepts for our project:
 
 I put these spots here for a place holder change however nesscary: 
 
-Keith's Design:
+Precision Surface Rover:
 ![](Concept_drawing_1.jpg)
 
 Vennessa's Design:
@@ -62,4 +62,4 @@ Charlie's Design:
 
 ## Concept Selection
 
-We choose the Precision Surface-Sampling Rover because its feature set directly supports the technical scope and learning objectives of the course while demonstrating a complete, well-rounded system design. The rover integrates mechanical components such as an all-terrain wheel system, shock-absorbing frame, self-righting mechanism, and impact-resistant, weatherproof shell, satisfying structural and mobility requirements. Its surface sampling scoop, subsurface drill, multi-tool sampling head, and replaceable sample cartridges emphasize hands-on design of functional mechanisms. The onboard mini-lab—including chemical composition scanning, soil moisture and pH sensing, microbial detection, and microscopy—fulfills sensing, instrumentation, and data analysis requirements. User interaction and system control are addressed through joystick navigation, a touchscreen interface, LED status indicators, and clear visual guides, while wireless data upload, real-time 3D model generation, and long-life solar-assisted power demonstrate systems integration and autonomy. Together, these features ensure the design meets course requirements by combining mechanical design, electronics, software, and data processing into a cohesive, mission-driven rover concept.
+We choose Concept 1: the Precision Surface-Sampling Rover because its feature set directly supports the technical scope and learning objectives of the course while demonstrating a complete, well-rounded system design. The rover integrates mechanical components such as an all-terrain wheel system, shock-absorbing frame, self-righting mechanism, and impact-resistant, weatherproof shell, satisfying structural and mobility requirements. Its surface sampling scoop, subsurface drill, multi-tool sampling head, and replaceable sample cartridges emphasize hands-on design of functional mechanisms. The onboard mini-lab—including chemical composition scanning, soil moisture and pH sensing, microbial detection, and microscopy—fulfills sensing, instrumentation, and data analysis requirements. User interaction and system control are addressed through joystick navigation, a touchscreen interface, LED status indicators, and clear visual guides, while wireless data upload, real-time 3D model generation, and long-life solar-assisted power demonstrate systems integration and autonomy. Together, these features ensure the design meets course requirements by combining mechanical design, electronics, software, and data processing into a cohesive, mission-driven rover concept.
