@@ -54,7 +54,7 @@ Our team came up with diifferent sketch concepts for our project:
 I put these spots here for a place holder change however nesscary: 
 
 Keith's Design:
-
+![](Concept_drawing_1.jpg)
 Vennessa's Design:
 
 Charlie's Design:
