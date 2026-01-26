@@ -56,7 +56,9 @@ I put these spots here for a place holder change however nesscary:
 Precision Surface Rover:
 ![](Concept_drawing_1.jpg)
 
-Vennessa's Design:
+
+Adaptive Terrain Explorer:
+![](ATE.jpg)
 
 Charlie's Design:
 
