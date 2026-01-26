@@ -60,7 +60,23 @@ Precision Surface Rover:
 Adaptive Terrain Explorer:
 ![](ATE.jpg)
 
-Charlie's Design:
+Assisted Exploration Companion:
+![](RV3.jpg)
+
+Description:
+
+Mobility:
+Equipped with four robust, square wheels designed to traverse rocky and uneven terrain with stability and ease.
+
+Visual Sensors:
+Two circular “eyes” on the head act as stereo cameras providing depth perception for navigation and obstacle detection.
+
+Robotic Arm:
+A simple articulated arm mounted on the front enables the rover to manipulate small objects, collect samples, or interact with the environment.
+
+Communication:
+talks to other subsystems for instruction
+
 
 ## Concept Selection
 
