@@ -12,12 +12,11 @@ Our rover will also feature a human‑machine interface, giving the operator the
 
 This is just a placeholder table for now: 
 
-| **Role**          | **Duties**                                                                                                                                | 
-| :---------------- | :---------------------------------------------------------------------------------------------------------------------------------------- |
-| Meeting leader    | Schedules team meetings, creates and distributes an agenda for each meeting, and runs each meeting                                        |
-| Meeting recorder  | Takes minutes of each team meeting, including attendance, and records action items and to whom they are assigned                          |
-| Assignment leader | Coordinates the team's work on a given assignment to Canvas before the due date                                                           |
-| Project monitor   | Tracks the team's progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status |
+| **Role      | Duties | kjhvh | hbkljh |  
+|----|------|------|----|
+| yugkjyg   | hyguyg     | ykjyg | hyguyg |  
+|  yugkjyg  | hyguyg     | ykjyg | hyguyg |  
+|   yugkjyg | hyguyg     | ykjyg | hyguyg |  
 
 
 
@@ -41,13 +40,27 @@ The mimnimum Funtionalities being:
 
 | **Team Member**          | **Assignment**                                                                                                                                |
 | :---------------- | :---------------------------------------------------------------------------------------------------------------------------------------- |
-| Terry Williams    |     Choose Your Assignment                                |
-| Keith Payne  |     Choose Your Assignment                |
-| Vannessa Morgan |  Choose Your Assignment                             |
-| Charlie Klotz  | Choose Your Assignment |
+| Terry Williams    |    Sensor                                |
+| Keith Payne  |     Motor                |
+| Vannessa Morgan |     Wireless connection                  |
+| Charlie Klotz  | Human Interface |
 
 
 
 ## Features 
+
+**Motor:** 
+
+Our subterranian rover will need to be able to drill into different soil compositions for collection. This will be accomplished using motors to spin the drill and collect dirt samples. 
+
+**Wireless Connection:** 
+
+**Sensor:**
+
+**Human Interface:**
+
+Human interface will be included to give operational commands to the rover based on soil sample readings. This will give the 
+
+
 
 Written context to guide the reader on how features became requirements. (ie: The ground exploration rover will need drive and steering to move around, which requires ....  OR To collect samples, the explorer will require an arm that ....  which allows it to get the sample.)
