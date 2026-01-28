@@ -10,13 +10,13 @@ Our rover will also feature a human‑machine interface, giving the operator the
 
 ## Table of Requirements
 
-This is just a placeholder table for now: 
+The tables below shows the minimum acceptable performance levels, target values, associated rover features, and stretch‑goal indicators for each requirement in the final subterranean rover design. It includes all major system constraints—such as power limits, drilling capability, sensor accuracy, wireless communication reliability, and human‑machine interface functionality—and ensures that every subsystem of the rover is represented so each team member has at least one key functional requirement tied to their module.
 
-| **Role      | Duties | kjhvh | hbkljh |  
-|----|------|------|----|
-| yugkjyg   | hyguyg     | ykjyg | hyguyg |  
-|  yugkjyg  | hyguyg     | ykjyg | hyguyg |  
-|   yugkjyg | hyguyg     | ykjyg | hyguyg |  
+| Role  | Duties | kjhvh | hbkljh | hbkljh | 
+|----|------|------|---|---|
+| yugkjyg   | hyguyg     | ykjyg | hyguyg |  fnrjd
+|  yugkjyg  | hyguyg     | ykjyg | hyguyg |  djnef
+|   yugkjyg | hyguyg     | ykjyg | hyguyg |  dfnk
 
 
 
@@ -37,6 +37,7 @@ The mimnimum Funtionalities for our rover being:
 * Wireless Connection
 * Motor
 
+##
 
 | **Team Member**          | **Assignment**                                                                                                                                |
 | :---------------- | :---------------------------------------------------------------------------------------------------------------------------------------- |
