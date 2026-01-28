@@ -30,7 +30,7 @@ Should have enough requirements that every team member has a key functional requ
 
 The table below shows what team Member will be responsible for what function of the Rover.
 
-The mimnimum Funtionalities being:
+The mimnimum Funtionalities for our rover being:
 
 * Human Interface 
 * Sensor 
@@ -51,16 +51,17 @@ The mimnimum Funtionalities being:
 
 **Motor:** 
 
-Our subterranian rover will need to be able to drill into different soil compositions for collection. This will be accomplished using motors to spin the drill and collect dirt samples. 
+Our subterranean rover will need to drill into a variety of soil compositions to collect samples. This will be achieved using motor‑driven mechanisms that rotate the drill bit and extract material from beneath the surface 
 
 **Wireless Connection:** 
 
+The rover must be capable of receiving commands without any wired connection. To support this, it will include wireless communication capabilities that allow the operator to send movement instructions, adjust settings, and monitor rover status remotely.
+
 **Sensor:**
 
+The subterranean rover will be equipped with resistive sensors designed to detect differences in soil composition, moisture levels, and pH balance. These measurements will help the rover determine which areas contain valuable samples and guide its collection decisions.
+
 **Human Interface:**
+ 
+A human‑machine interface will be integrated to allow the operator to issue commands based on real‑time sensor readings. This interface will provide clear feedback about soil conditions, drilling progress, and rover status, enabling the user to make informed operational decisions.
 
-Human interface will be included to give operational commands to the rover based on soil sample readings. This will give the 
-
-
-
-Written context to guide the reader on how features became requirements. (ie: The ground exploration rover will need drive and steering to move around, which requires ....  OR To collect samples, the explorer will require an arm that ....  which allows it to get the sample.)
