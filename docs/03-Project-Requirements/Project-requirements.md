@@ -10,6 +10,8 @@ Our rover will also feature a human‑machine interface, giving the operator the
 
 ## Table of Requirements
 
+This is just a placeholder table for now: 
+
 | **Role**          | **Duties**                                                                                                                                | 
 | :---------------- | :---------------------------------------------------------------------------------------------------------------------------------------- |
 | Meeting leader    | Schedules team meetings, creates and distributes an agenda for each meeting, and runs each meeting                                        |
