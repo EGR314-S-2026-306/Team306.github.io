@@ -583,9 +583,18 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#table-of-requirements" class="md-nav__link">
+  <a href="#table-requirements" class="md-nav__link">
     <span class="md-ellipsis">
-      Table of Requirements
+      Table: Requirements
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#table-power-usage" class="md-nav__link">
+    <span class="md-ellipsis">
+      Table: Power Usage
     </span>
   </a>
   
@@ -766,9 +775,18 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#table-of-requirements" class="md-nav__link">
+  <a href="#table-requirements" class="md-nav__link">
     <span class="md-ellipsis">
-      Table of Requirements
+      Table: Requirements
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#table-power-usage" class="md-nav__link">
+    <span class="md-ellipsis">
+      Table: Power Usage
     </span>
   </a>
   
@@ -829,7 +847,7 @@
 <h2 id="project-objective-overview">Project Objective Overview</h2>
 <p>The objective of this project is to create a subterranean rover that uses motors to drill into the ground and collect samples from different soil types and environments. The rover will be equipped with resistive sensors to measure chemical compositions in the soil, allowing it to determine which samples to collect and which to ignore.
 Our rover will also feature a human‑machine interface, giving the operator the ability to set various conditions and define routes for the rover to follow. In addition, the rover will include wireless communication, enabling it to receive instructions from the user without the need for wired connections.</p>
-<h2 id="table-of-requirements">Table of Requirements</h2>
+<h2 id="table-requirements">Table: Requirements</h2>
 <p>The tables below shows the minimum acceptable performance levels, target values, associated rover features, and stretch‑goal indicators for each requirement in the final subterranean rover design. It includes all major system constraints—such as power limits, drilling capability, sensor accuracy, wireless communication reliability, and human‑machine interface functionality—and ensures that every subsystem of the rover is represented so each team member has at least one key functional requirement tied to their module.</p>
 <table>
 <thead>
@@ -869,6 +887,51 @@ Our rover will also feature a human‑machine interface, giving the operator the
 <td>Remote control</td>
 <td>Rover follow commands of operator without being directly connected</td>
 <td>no</td>
+</tr>
+<tr>
+<td>DriveTrain</td>
+<td>Rover Will be able to drive in reverse</td>
+<td>Dual Motor Functionality</td>
+<td>Rover Is able to drive backwards</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Ultrasonic</td>
+<td>Rover will be able to sense distance from objects</td>
+<td>Ultrasonic sensor</td>
+<td>Rover will be able to avoid obstacles</td>
+<td>yes</td>
+</tr>
+</tbody>
+</table>
+<h2 id="table-power-usage">Table: Power Usage</h2>
+<table>
+<thead>
+<tr>
+<th><strong>Requirement Description</strong></th>
+<th><strong>Measure of<br> Threshold</strong></th>
+<th><strong>Target<br>Measure</strong></th>
+<th style="text-align: center;"><strong>Stretch<br>Requirement<br>(Y-N)</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Surface mounted, 3.3V switching power regulatore</td>
+<td>3.2 Volts</td>
+<td>3.3 Volts</td>
+<td style="text-align: center;">No</td>
+</tr>
+<tr>
+<td>Surface mounted microcontroller</td>
+<td>1 PIC or ESP</td>
+<td>8-bit PIC</td>
+<td style="text-align: center;">No</td>
+</tr>
+<tr>
+<td>Wireless Communication</td>
+<td>Able to send or receive a Wi-Fi data</td>
+<td>Send and receive Wi-Fi Data to MQTT</td>
+<td style="text-align: center;">Yes</td>
 </tr>
 </tbody>
 </table>
