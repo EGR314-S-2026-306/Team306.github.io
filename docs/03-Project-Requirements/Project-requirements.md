@@ -8,7 +8,7 @@ The objective of this project is to create a subterranean rover that uses motors
 Our rover will also feature a human‑machine interface, giving the operator the ability to set various conditions and define routes for the rover to follow. In addition, the rover will include wireless communication, enabling it to receive instructions from the user without the need for wired connections.
 
 
-## Table of Requirements
+## Table: Requirements
 
 The tables below shows the minimum acceptable performance levels, target values, associated rover features, and stretch‑goal indicators for each requirement in the final subterranean rover design. It includes all major system constraints—such as power limits, drilling capability, sensor accuracy, wireless communication reliability, and human‑machine interface functionality—and ensures that every subsystem of the rover is represented so each team member has at least one key functional requirement tied to their module.
 
@@ -18,6 +18,19 @@ The tables below shows the minimum acceptable performance levels, target values,
 |  Motor | Motors will be used to drill into ground     | Drill attached to Rover | Drills into different soil compositions |  no
 |   Human Interface | Operator will be able to interact with Rover giving it driving and drilling instructions     | LCD display and command pad | Rover obeys different commands based on intruction |  no
 |   Wirless Communication | Rover Will be able to recieve commands without wired connections     | Remote control | Rover follow commands of operator without being directly connected |  no
+|    DriveTrain | Rover Will be able to drive in reverse    | Dual Motor Functionality | Rover Is able to drive backwards |  Yes
+|   Ultrasonic | Rover will be able to sense distance from objects    |Ultrasonic sensor  |Rover will be able to avoid obstacles |  yes
+
+
+
+## Table: Power Usage
+
+| **Requirement Description** | **Measure of<br> Threshold** | **Target<br>Measure** |**Stretch<br>Requirement<br>(Y-N)**|
+|-----------------------------| ----------------- | ----------------- | :-----: |
+| Surface mounted, 3.3V switching power regulatore | 3.2 Volts | 3.3 Volts | No |
+| Surface mounted microcontroller | 1 PIC or ESP | 8-bit PIC | No |
+| Wireless Communication | Able to send or receive a Wi-Fi data | Send and receive Wi-Fi Data to MQTT | Yes |
+
 
 
 

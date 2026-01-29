@@ -5,7 +5,7 @@ tags:
 - tag2
 ---
 <center>
-<font size="8">Project Name: TBD<br>
+<font size="8">Project Name: Subterranian Rover<br>
 <font size="5">Team 306<br>
 **Submission: May, 1, 2026**<br>
 Spring - 2026<br>
@@ -17,7 +17,7 @@ Professor: Kevin Nichols<br>
 </center>
 
 ## Team Introduction
- Team 306 welcomes you to our engineering project webpage. This Team project can be split up into several sections and each one will be managed by a single team member."To be continued after specifics are determined."
+ Team 306 welcomes you to our engineering project webpage. Our project will consist of creating a subterranian rover with mutiple functions. Functionality includes Sensing capabilities, Human Interface, Wireless communication, and Motor driven attributes. Each member of team 306 will be responsible for one functionality of the rover. Keith Payne will be in charge of design a sampling drill using motors. Terry Williams will be responsible for using sensing soil compositions. Charlie klotz will be desinging human interface capabilities on the rover. Vanessa Morgan will be in charge of wirless communication. This combination of functionalities will allow for a complete Subterranian Rover equipped with different capabilities for soil collection. 
 
  >*This will be updated as part of the preparation for the External Review.<br>
  >*Needs to be updated to reflect a team introduction.<br>
