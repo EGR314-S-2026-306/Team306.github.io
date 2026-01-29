@@ -12,19 +12,16 @@ Our rover will also feature a human‑machine interface, giving the operator the
 
 The tables below shows the minimum acceptable performance levels, target values, associated rover features, and stretch‑goal indicators for each requirement in the final subterranean rover design. It includes all major system constraints—such as power limits, drilling capability, sensor accuracy, wireless communication reliability, and human‑machine interface functionality—and ensures that every subsystem of the rover is represented so each team member has at least one key functional requirement tied to their module.
 
-| Role  | Duties | kjhvh | hbkljh | hbkljh | 
+| Requirements  | Description | Feature | Target Measurement | Stretch Goal | 
 |----|------|------|---|---|
-| yugkjyg   | hyguyg     | ykjyg | hyguyg |  fnrjd
-|  yugkjyg  | hyguyg     | ykjyg | hyguyg |  djnef
-|   yugkjyg | hyguyg     | ykjyg | hyguyg |  dfnk
+| Sensor   | Rover will be equipped with Sensors for dirt composition    | Soil sensor inside Rover Container | Accurate Ph balance |  no
+|  Motor | Motors will be used to drill into ground     | Drill attached to Rover | Drills into different soil compositions |  no
+|   Human Interface | Operator will be able to interact with Rover giving it driving and drilling instructions     | LCD display and command pad | Rover obeys different commands based on intruction |  no
+|   Wirless Communication | Rover Will be able to recieve commands without wired connections     | Remote control | Rover follow commands of operator without being directly connected |  no
 
 
 
-A table that lists the requirements, as a description, along with the minimum measure level to not be a complete failure, the target measurement, the feature this requirement satisfies, and whether it is a stretch requirement. (See the Individual datasheet template for an example.)
 
-This table should also cover the major design-concept constraints that will affect team-member modules. Like power.
-Should cover every feature of the exploration device has in the final design concept.
-Should have enough requirements that every team member has a key functional requirement. Motor, sensor, wireless communication, or HMI.
 
 ## Team Member assignment
 
