@@ -42,14 +42,6 @@ A sequence diagram for our rover shows a simple request‑and‑response chain: 
 
 ## Message Structure
 
-Yes — **your current version already follows that rule**, but you should make it **explicit in your write-up** so your grader sees it clearly.
-
-Here is the **fixed version with that requirement clearly included** 👇
-
----
-
-# Part 3: Message Types
-
 The start bytes mark the start of the message, the source and destination IDs reveal who is sending and receiving, and the payload includes the message type and data. The packet format is a fixed 64-byte message used for communication between subsystems. To guarantee that the message is correctly received, the end bytes indicate the message's conclusion. 
 
 ## Package Format
