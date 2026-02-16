@@ -8,12 +8,12 @@ title: Block Diagram, Protocol, and Message Structure
 
 Each subsystem has its own microcontroller and communicates using simple commands. The human interface creates commands, the wireless subsystem forwards them, the motor driver subsystem handles movement and drilling, and the soil sensor subsystem only activates when commanded to take a measurement, then sends its soil composition data back through the wireless subsystem to the operator. Our team Block Diagram is shown below:
 
-![Design Features](Team306_BlockDiagram.jpg)
+![Design Features](Block306.jpg)
 **Figure 1:** The over all team block diagram.
 
 Here are some close ups so they can be read easier:
 
-![left half](Left.jpg)
+![left half](Right1.jpg)
 
 **Figure 2:** The left half of the team block diagram.
 
