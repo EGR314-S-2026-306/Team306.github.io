@@ -74,7 +74,7 @@ The start bytes mark the start of the message, the source and destination IDs re
 | 3                       | The Soil Sensor Request |
 | 10                      | The Status Code         |
 | 11                      | The Soil Data           |
-| 12                      | Acknowledgment          |
+| 12                      | Confirmation            |
 | 20                      | The Error Code          |
 | 21                      | The Error Message       |
 | 67                      | The Button Press        |
@@ -115,7 +115,7 @@ The start bytes mark the start of the message, the source and destination IDs re
 
 | Byte 1-2 (uint16_t) | Byte 3-4 (uint16_t)             |
 | ------------------- | ------------------------------- |
-| 0x000C              | Message Type Being Confirmed    |
+| 0x000C              | Message Type Being "Done"       |
 
 ### Message Type 20: The Error Code
 
