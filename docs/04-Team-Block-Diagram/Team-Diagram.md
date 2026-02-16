@@ -31,13 +31,13 @@ Here are some close ups so they can be read easier:
 - Takes a soil reading only when asked, sends the result back through to the operator.
 
 
-## Protocol
+## Protocol/Sequnce Diagram
+
+A sequence diagram for our rover shows a simple request‑and‑response chain: the operator sends a command through the human interface, the wireless subsystem forwards it to the motor subsystem, that subsystem send to the sensor subystem,  performs the action, and the result flows back through wireless to the operator. Our Protocol/Sequnce Diagram is shown below:
+
+![Protocol/Sequnce Diagram](proccess.jpg)
+**Figure 4:** Protocol/Sequnce Diagram
 
 
 
 ## Message Structure
-| Message Type | Description         |
-| ------------ | ------------------- |
-| 1            | Start Button Pushed |
-| 2            | Parameters Set      |
-| 3            | Settings Compiled   |
