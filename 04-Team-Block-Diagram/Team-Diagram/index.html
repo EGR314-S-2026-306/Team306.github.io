@@ -644,9 +644,9 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#protocol" class="md-nav__link">
+  <a href="#protocolsequnce-diagram" class="md-nav__link">
     <span class="md-ellipsis">
-      Protocol
+      Protocol/Sequnce Diagram
     </span>
   </a>
   
@@ -778,9 +778,9 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#protocol" class="md-nav__link">
+  <a href="#protocolsequnce-diagram" class="md-nav__link">
     <span class="md-ellipsis">
-      Protocol
+      Protocol/Sequnce Diagram
     </span>
   </a>
   
@@ -840,30 +840,11 @@
 <li>Sensor subsystem</li>
 <li>Takes a soil reading only when asked, sends the result back through to the operator.</li>
 </ul>
-<h2 id="protocol">Protocol</h2>
+<h2 id="protocolsequnce-diagram">Protocol/Sequnce Diagram</h2>
+<p>A sequence diagram for our rover shows a simple request‑and‑response chain: the operator sends a command through the human interface, the wireless subsystem forwards it to the motor subsystem, that subsystem send to the sensor subystem,  performs the action, and the result flows back through wireless to the operator. Our Protocol/Sequnce Diagram is shown below:</p>
+<p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../proccess.jpg" data-desc-position="bottom"><img alt="Protocol/Sequnce Diagram" src="../proccess.jpg"></a>
+<strong>Figure 4:</strong> Protocol/Sequnce Diagram</p>
 <h2 id="message-structure">Message Structure</h2>
-<table>
-<thead>
-<tr>
-<th>Message Type</th>
-<th>Description</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>1</td>
-<td>Start Button Pushed</td>
-</tr>
-<tr>
-<td>2</td>
-<td>Parameters Set</td>
-</tr>
-<tr>
-<td>3</td>
-<td>Settings Compiled</td>
-</tr>
-</tbody>
-</table>
 
 
 
