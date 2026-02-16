@@ -626,6 +626,21 @@
     </span>
   </a>
   
+    <nav class="md-nav" aria-label="Block Diagram">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#introduction" class="md-nav__link">
+    <span class="md-ellipsis">
+      Introduction
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
       
         <li class="md-nav__item">
@@ -745,6 +760,21 @@
     </span>
   </a>
   
+    <nav class="md-nav" aria-label="Block Diagram">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#introduction" class="md-nav__link">
+    <span class="md-ellipsis">
+      Introduction
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
       
         <li class="md-nav__item">
@@ -791,6 +821,25 @@
   <h1>Block Diagram, Protocol, and Message Structure</h1>
 
 <h2 id="block-diagram">Block Diagram</h2>
+<h4 id="introduction">Introduction</h4>
+<p>Each subsystem has its own microcontroller and communicates using simple commands. The human interface creates commands, the wireless subsystem forwards them, the motor driver subsystem handles movement and drilling, and the soil sensor subsystem only activates when commanded to take a measurement, then sends its soil composition data back through the wireless subsystem to the operator. Our team Block Diagram is shown below:</p>
+<p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../Team306_BlockDiagram.jpg" data-desc-position="bottom"><img alt="Design Features" src="../Team306_BlockDiagram.jpg"></a>
+<strong>Figure 1:</strong> The over all team block diagram.</p>
+<p>Here are some close ups so they can be read easier:</p>
+<p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../Left.jpg" data-desc-position="bottom"><img alt="left half" src="../Left.jpg"></a></p>
+<p><strong>Figure 2:</strong> The left half of the team block diagram.</p>
+<p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../Right.jpg" data-desc-position="bottom"><img alt="right half" src="../Right.jpg"></a>
+<strong>Figure 3:</strong> The right half of the team block diagram.</p>
+<p><strong>Quick Explanation of Flow:</strong> </p>
+<ul>
+<li>Operator → Human Interface → Wireless</li>
+<li>“Move here/Location” → sent to motor subsystem.</li>
+<li>“Take soil reading here” → sent to sensor subsystem.</li>
+<li>Motor subsystem</li>
+<li>Moves/drills, then reports “done” back through wireless to the operator.</li>
+<li>Sensor subsystem</li>
+<li>Takes a soil reading only when asked, sends the result back through to the operator.</li>
+</ul>
 <h2 id="protocol">Protocol</h2>
 <h2 id="message-structure">Message Structure</h2>
 <table>
