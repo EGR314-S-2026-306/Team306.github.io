@@ -4,8 +4,9 @@ title: Project Requirements
 
 ## Project Objective Overview
 
-The objective of this project is to create a subterranean rover that uses motors to drill into the ground and collect samples from different soil types and environments. The rover will be equipped with resistive sensors to measure chemical compositions in the soil, allowing it to determine which samples to collect and which to ignore.
-Our rover will also feature a human‑machine interface, giving the operator the ability to set various conditions and define routes for the rover to follow. In addition, the rover will include wireless communication, enabling it to receive instructions from the user without the need for wired connections.
+The objective of this project is to create a subterranean rover that uses a motor‑driven drilling system to penetrate the ground and collect samples from different subsurface environments. The rover will rely on a Hall effect sensor to detect variations in magnetic fields beneath the surface. These magnetic readings help the rover identify metallic objects or shifts in underground materials, allowing it to determine which areas are most promising for sampling.
+The rover will also include a human‑machine interface that allows the operator to set operating conditions, monitor sensor feedback, and define routes for the rover to follow. In addition, a wireless communication system will enable the rover to receive commands and transmit data remotely, ensuring fully untethered operation during exploration.
+
 
 
 ## Table: Requirements
@@ -14,7 +15,7 @@ The tables below shows the minimum acceptable performance levels, target values,
 
 | Requirements  | Description | Feature | Target Measurement | Stretch Goal | 
 |----|------|------|---|---|
-| Sensor   | Rover will be equipped with Sensors for dirt composion and magnetism sensing   | Soil sensor inside Rover Container | Accurate Ph balance |  no
+| Sensor   | Rover will be equipped with Sensors for dirt composition and magnetism sensing   | Hall effect sensor inside Rover Container | sense magnetic fields |  no
 |  Motor | Motors will be used to drill into ground     | Drill attached to Rover | Drills into different soil compositions |  no
 |   Human Interface | Operator will be able to interact with Rover giving it driving and drilling instructions     | LCD display and command pad | Rover obeys different commands based on intruction |  no
 |   Wirless Communication | Rover Will be able to recieve commands without wired connections     | Remote control | Rover follow commands of operator without being directly connected |  no
@@ -70,7 +71,7 @@ The rover must be capable of receiving commands without any wired connection. To
 
 **Sensor:**
 
-The subterranean rover will be equipped with resistive sensors designed to detect differences in soil composition, moisture levels, and pH balance. These measurements will help the rover determine which areas contain valuable samples and guide its collection decisions.
+The subterranean rover will use a Hall effect sensor to detect variations in magnetic fields beneath the surface. By measuring changes in magnetic flux, the sensor can identify the presence of metallic objects or shifts in subsurface materials. These readings help the rover determine areas of interest and guide its sampling decisions, ensuring it collects data from locations most likely to yield meaningful results.
 
 **Human Interface:**
  
