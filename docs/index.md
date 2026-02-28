@@ -5,7 +5,7 @@ tags:
 - tag2
 ---
 <center>
-<font size="8">Project Name: Subterranian Rover<br>
+<font size="8">Subterranian Rover<br>
 <font size="5">Team 306<br>
 **Submission: May, 1, 2026**<br>
 Spring - 2026<br>
@@ -17,11 +17,10 @@ Professor: Kevin Nichols<br>
 </center>
 
 ## Team Introduction
- Team 306 welcomes you to our engineering project webpage. Our project will consist of creating a subterranian rover with mutiple functions. Functionality includes Sensing capabilities, Human Interface, Wireless communication, and Motor driven attributes. Each member of team 306 will be responsible for one functionality of the rover. Keith Payne will be in charge of design a sampling drill using motors. Terry Williams will be responsible for using sensing soil compositions. Charlie klotz will be desinging human interface capabilities on the rover. Vanessa Morgan will be in charge of wirless communication. This combination of functionalities will allow for a complete Subterranian Rover equipped with different capabilities for soil collection. 
+ Team 306 welcomes you to our engineering project webpage. Our project focuses on designing and building a subterranean rover capable of performing multiple coordinated functions. The rover will integrate four core subsystems: an electromagnetism‑based sensing system, a human‑machine interface, wireless communication, and a motor‑driven drilling mechanism. Each member of Team 306 is responsible for developing one of these essential components. Keith Payne is leading the design of the motor‑driven sampling drill. Terry Williams is developing the rover’s electromagnetism sensing system. Charlie Klotz is creating the human‑interface controls that will allow operators to interact with the rover. Vanessa Morgan is building the wireless communication system that enables remote operation. Together, these subsystems will form a fully functional subterranean rover capable of collecting and analyzing samples across different environments.
+ 
 
- >*This will be updated as part of the preparation for the External Review.<br>
- >*Needs to be updated to reflect a team introduction.<br>
- >*Content should also help an unfamiliar reader navigate to areas of interest.
+ 
 
 
 ## Team Members Datasheet links

@@ -6,13 +6,15 @@ tags:
 
 ## Team Charter
 
+"ASU is a comprehensive public research university, measured not by whom it excludes, but by whom it includes and how they succeed; advancing research and discovery of public value; and assuming fundamental responsibility for the economic, social, cultural and overall health of the communities it serves."
+
 Team 306 is a design and augmentation team for EGR 314 embedded systems, using a combination of individual systems combined into one to form a functioning project. Team 306 aims to build on the responsibility for the engineering, social, cultural and overall health of the communities it serves and are served by the overarching university of ASU.
 
 Team 306 came about this team charter through the collobrative efforts of the individual members.
 
 ## Product Mission Statement
 
-Team 306's mission is to design...
+Team 306's mission is to design
 
 "A physical implement capable of exploring different enviroments using a series of individually developed probes and sensors."
 

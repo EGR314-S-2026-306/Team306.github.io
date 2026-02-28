@@ -14,7 +14,7 @@ The tables below shows the minimum acceptable performance levels, target values,
 
 | Requirements  | Description | Feature | Target Measurement | Stretch Goal | 
 |----|------|------|---|---|
-| Sensor   | Rover will be equipped with Sensors for dirt composition    | Soil sensor inside Rover Container | Accurate Ph balance |  no
+| Sensor   | Rover will be equipped with Sensors for dirt composion and magnetism sensing   | Soil sensor inside Rover Container | Accurate Ph balance |  no
 |  Motor | Motors will be used to drill into ground     | Drill attached to Rover | Drills into different soil compositions |  no
 |   Human Interface | Operator will be able to interact with Rover giving it driving and drilling instructions     | LCD display and command pad | Rover obeys different commands based on intruction |  no
 |   Wirless Communication | Rover Will be able to recieve commands without wired connections     | Remote control | Rover follow commands of operator without being directly connected |  no
