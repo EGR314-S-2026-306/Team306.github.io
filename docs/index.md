@@ -19,7 +19,8 @@ Professor: Kevin Nichols<br>
 ## Team Introduction
  Team 306 welcomes you to our engineering project webpage. Our project focuses on designing and building a subterranean rover capable of performing multiple coordinated functions. The rover will integrate four core subsystems: an electromagnetism‑based sensing system, a human‑machine interface, wireless communication, and a motor‑driven drilling mechanism. Each member of Team 306 is responsible for developing one of these essential components. Keith Payne is leading the design of the motor‑driven sampling drill. Terry Williams is developing the rover’s electromagnetism sensing system. Charlie Klotz is creating the human‑interface controls that will allow operators to interact with the rover. Vanessa Morgan is building the wireless communication system that enables remote operation. Together, these subsystems will form a fully functional subterranean rover capable of collecting and analyzing samples across different environments.
  
-
+## Project Summary
+The goal of this project is to create a fully integrated subterranean rover that can detect underground metallic objects, collect soil samples, communicate wirelessly with an operator, and respond to real‑time control inputs. Each subsystem was designed as an independent embedded module and then combined into a single rover platform through a shared communication protocol. The final design demonstrates coordinated sensing, movement, drilling, and user interaction, showing how multiple embedded systems can work together to complete a complex engineering task.
  
 
 
