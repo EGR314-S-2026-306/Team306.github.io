@@ -1,85 +1,94 @@
 ---
 title: Concept Generation and Design Ideation
 ---
-## Exploration Devices 
 
-A surface‑sampling exploration device is designed to directly interact with the ground in order to collect physical material for analysis. Its primary goal is to gather soil, rock, sediment, or other surface‑level samples that can reveal the chemical, geological, or biological characteristics of an environment. By physically retrieving material and relying on remote sensing, the device provides an example of what the surface is made of and how it has changed over time. This hands‑on approach allows researchers to study composition, structure, and environmental conditions with a level of detail that other observation‑only tools can’t match.
+## Exploration Devices
 
-The audience for a surface‑sampling device is likely going to include scientists, engineers, and research teams who need accurate, lab‑quality data from locations that are difficult or unsafe to reach. In academic settings, these devices also support students learning about field methods, planetary science, or environmental analysis. Depending on the mission, they may also be used by environmental specialists, geologists, or industrial teams working in remote or hazardous areas. Regardless of the specific user group, the device is built to deliver reliable, well‑documented samples that help people better understand the environment they are studying.
+A surface‑sampling exploration device is designed to interact directly with the ground to collect physical material for analysis. Its purpose is to gather soil, sediment, or subsurface samples that reveal chemical, geological, or environmental characteristics of an area. By retrieving physical material and combining it with sensor‑based measurements, the device provides detailed information about the composition and structure of the environment. This approach supports research teams, engineers, and students who need reliable data from locations that may be difficult or unsafe to access.
 
+The intended users for a surface‑sampling rover include scientists, engineering teams, environmental specialists, and academic groups who require accurate, well‑documented samples. These devices also support learning in planetary science, field methods, and embedded systems by demonstrating how sensing, mobility, and data collection can be integrated into a single platform.
 
-## Generate Ideas 
+## Generate Ideas
 
-Our Team each genrate roughly 25 ideas per member. We then placed our ideas on the whiteboard below. 
+Each member of Team 306 generated approximately twenty‑five ideas, which were then collected and placed on the whiteboard shown below.
 
 ![Design Features](DesignIdeas.jpg)
 
+## Team Sorting and Ranking
 
-## Team sorting and Ranking 
-
-We then grouped our ideas into different catergories based on functionality and use. Shown on the whiteboard below 
+The team grouped these ideas into categories based on functionality, purpose, and feasibility. This helped identify common themes and eliminate redundant or impractical concepts.
 
 ![Design Features](IdeasSorted.jpg)
 
+## Concepts
 
-## Concepts 
-
-After sorting and catergorizing these ideas, our team then came up with 3 concepts each with seperate functions and different purposes. Shown below 
+After sorting and categorizing the ideas, the team developed three main concepts, each representing a different direction for the project.
 
 ### Concept 1: Precision Surface‑Sampling Rover
 
-Collect high‑quality surface and subsurface samples, analyze them on‑site, and return structured scientific data, Ideas for this concept shown on whitboard below:
+A rover focused on collecting high‑quality surface and subsurface samples, performing on‑site analysis, and returning structured scientific data.  
+Ideas for this concept are shown below:
 
 ![Design Features](ConceptOne.jpg)
 
 ### Concept 2: Adaptive Terrain Explorer
 
-Navigate unpredictable, hazardous, or varied terrain using adaptive movement systems and environmental awareness tools. Ideas for this concept shown on whitboard below:
+A rover designed to navigate unpredictable or hazardous terrain using adaptive movement systems and environmental awareness tools.
 
 ![Design Features](ConceptTwo.jpg)
 
 ### Concept 3: Assisted Exploration Companion
 
-Support users—students, field teams, or non‑experts—through guided exploration with strong instructional, feedback, and interactive features. Ideas for this concept shown on whitboard below:
+A rover intended to support students or field teams through guided exploration, instructional feedback, and interactive features.
 
 ![Design Features](ConceptThree.jpg)
 
+## Concept Sketches
 
+The team created several sketches to visualize the concepts.
 
-
-## Concept Sketches 
-
-Our team came up with diifferent sketch concepts for our project: 
-
-
-Precision Surface Rover:
+Precision Surface Rover:  
 ![](Concept_drawing_1.jpg)
 
-
-Adaptive Terrain Explorer:
+Adaptive Terrain Explorer:  
 ![](ATE.jpg)
 
-Assisted Exploration Companion:
+Assisted Exploration Companion:  
 ![](RV3.jpg)
 
 Description:
 
-Mobility:
-Equipped with four robust, square wheels designed to traverse rocky and uneven terrain with stability and ease.
+Mobility:  
+Equipped with four robust, square wheels designed to traverse rocky and uneven terrain.
 
-Visual Sensors:
-Two circular “eyes” on the head act as stereo cameras providing depth perception for navigation and obstacle detection.
+Visual Sensors:  
+Two circular “eyes” act as stereo cameras for depth perception and obstacle detection.
 
-Robotic Arm:
-A simple articulated arm mounted on the front enables the rover to manipulate small objects, collect samples, or interact with the environment.
+Robotic Arm:  
+A simple articulated arm allows the rover to manipulate objects or collect samples.
 
-Communication:
-talks to other subsystems for instruction
+Communication:  
+Designed to interact with other subsystems for coordinated operation.
 
+## Updated Ideation Based on Feedback
 
-## Concept Selection
+After receiving feedback throughout the semester, the team refined its understanding of user needs and technical constraints. Several insights shaped the final direction:
 
-We selected Concept 1: the Precision Surface‑Sampling Rover because its overall design aligns directly with the technical goals of our project and the subsystem requirements assigned to each member of Team 306. This rover concept provides a clear framework for integrating our four embedded system modules, electromagnetism‑based sensing, a human‑machine interface, wireless communication, and a motor‑driven drilling mechanism—into one cohesive platform. The rover’s mechanical foundation, including its all‑terrain wheel system, reinforced frame, and durable exterior, supports reliable movement and stability during underground exploration. Its sampling hardware, such as the subsurface drill and modular sampling head, gives our team a practical structure for implementing Keith’s motor‑driven drilling subsystem.
-The sensing portion of the design is especially well‑suited for Terry’s magnetic field detection system, which will allow the rover to identify subsurface metallic objects and map electromagnetic variations. This subsystem fulfills the course requirement for meaningful sensor integration while contributing directly to the rover’s mission. Charlie’s human‑interface module fits naturally into the rover’s control architecture through joystick navigation, touchscreen menus, and visual status indicators, ensuring intuitive operator interaction. Vanessa’s wireless communication subsystem integrates seamlessly with the rover’s data‑handling needs, enabling remote operation, telemetry, and real‑time data transfer.
-Together, these elements create a complete, mission‑driven rover concept that brings together mechanical design, embedded electronics, software control, and sensing capabilities. Concept 1 provides the most coherent structure for combining our individual subsystems into a functional subterranean rover that meets the expectations and learning objectives of EGR 314.
+• The rover needed a clear, measurable sensing capability, which led to prioritizing magnetic field detection over more complex environmental sensing.  
+• The drilling mechanism had to be mechanically simple and electrically reliable, which influenced the final sampling design.  
+• Wireless communication needed to remain stable even in noisy environments, guiding antenna placement and message formatting.  
+• The human‑machine interface needed to be intuitive, leading to simplified controls and clearer feedback indicators.
 
+These refinements helped narrow the scope of the project while improving the feasibility and reliability of the final design.
+
+## Concept Selection and Decision‑Making Process
+
+The team selected **Concept 1: the Precision Surface‑Sampling Rover** because it aligned most directly with the technical goals of EGR 314 and the subsystem requirements assigned to each member. During the decision‑making process, the team compared the strengths of each concept, evaluated feasibility, and considered how well each idea supported the required embedded systems.
+
+Although Concept 1 was chosen, the final design incorporates elements from the other concepts. From Concept 2, the team adopted ideas related to stability and terrain handling. From Concept 3, the team incorporated clearer user feedback and simplified interaction features. This combination allowed the rover to remain focused on sampling while still benefiting from improved usability and robustness.
+
+## Alignment With Final Design
+
+The final rover design remains consistent with the original intent of Concept 1 but is more streamlined and technically grounded. The electromagnetism‑based sensing system became the primary method for identifying subsurface features. The drilling subsystem was refined to match the mechanical constraints of the rover. The wireless communication and human‑machine interface were simplified to ensure reliable operation during testing.
+
+Overall, the final design reflects a balanced combination of the strongest ideas from the ideation phase, refined through feedback, testing, and practical engineering considerations.
