@@ -6,4 +6,3 @@ title: Appendix
 
 * [Appendix - Extra Team Organization Information](https://egr314-s-2026-306.github.io/Team306.github.io/Appendix/01-Organization-Information/Append-Organization/)
 
-> add to list.
