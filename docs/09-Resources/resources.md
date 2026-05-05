@@ -2,8 +2,6 @@
 title: Project Resources
 ---
 
-## Header
+## Resources
 
-Add team Final report requested content!
-
-To get this to appear, rename the file type back to ".md"
+* [Appendix - Extra Team Organization Information](https://egr314-s-2026-306.github.io/Team306.github.io/Appendix/01-Organization-Information/Append-Organization/)
